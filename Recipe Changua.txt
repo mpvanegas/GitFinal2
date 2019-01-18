@@ -1,16 +1,16 @@
-Ingredients
-Milk
-Eggs
-Bread
-Scallions
-Cheese
-Salt
-Sweet corn
-Pandebono
-Cilantro
-Pepper
+*Ingredients*
+-Milk
+-Eggs
+-Bread
+-Scallions
+-Cheese
+-Salt
+-Sweet corn
+-Pandebono
+-Cilantro
+-Pepper
 
-Preparation
+*Preparation*
 1. Heat a pot over medium heat.
 2. Add the scallions and let them cook for two minutes.
 3. Add the milk.
